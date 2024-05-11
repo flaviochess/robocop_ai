@@ -1,5 +1,5 @@
 # Robocop AI
-![alt text](image.jpg)
+![robocop](robocop.png)
 > Robocop em referência ao filme onde o personagem é um policial humanoide e IA pois aqui ao invés de um humanoide o "policial" é uma IA.
 
 ## O projeto
@@ -17,7 +17,7 @@ Os vídeos usados são os seguintes:
 
 Além disso, como um projeto piloto, ainda não está integrado com um serviço de geolocalização, como o Google Maps. Ao invés disso existe um grafo simulando as ruas de uma pequena cidade:
 
-![alt text](image.jpg)
+![Small Village](small_village.png)
 
 ## Uso
 Esse protótipo utiliza Jupter Notebook do Python, onde você pode executar a partir da sua máquina ou através do Colab do Google em: 
