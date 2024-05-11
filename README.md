@@ -20,5 +20,11 @@ Além disso, como um projeto piloto, ainda não está integrado com um serviço 
 ![Small Village](small_village.png)
 
 ## Uso
-Esse protótipo utiliza Jupter Notebook do Python, onde você pode executar a partir da sua máquina ou através do Colab do Google em: 
+Esse protótipo utiliza Jupyter Notebook do Python, onde você pode executar a partir da sua máquina ou através do Colab do Google em: 
 [Robocop AI Colab project](https://colab.research.google.com/github/flaviochess/robocop_ai/blob/main/robocop.ipynb)
+
+A última função recebe dois atributos, sendo uma placa de carro e uma rua (de 1 à 13 como o mapa acima). Ao rodar ela você pode observar toda a busca ocorrendo pelas ruas até encontrar o carro.
+![resultado](resultado_robocop_ai.png)
+
+## Limitações
+O uso free do Gemini contém algumas limitações como limite de uso diário ou rate limite. Por isso é possível encotrar alguns try...except no código para evitar que a experiência do usuário quebre.
