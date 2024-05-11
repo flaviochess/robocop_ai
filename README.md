@@ -21,4 +21,4 @@ Além disso, como um projeto piloto, ainda não está integrado com um serviço 
 
 ## Uso
 Esse protótipo utiliza Jupter Notebook do Python, onde você pode executar a partir da sua máquina ou através do Colab do Google em: 
-
+[Robocop AI Colab project](https://colab.research.google.com/github/flaviochess/robocop_ai/blob/main/robocop.ipynb)
