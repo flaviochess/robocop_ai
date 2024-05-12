@@ -12,6 +12,7 @@ Esse é um projeto em uma versão inicial para testar alguns conceitos e a parti
 
 O Robocop AI utiliza a inteligência artificial (AI) generativa do Google, a Gemini, para analisar vídeos de câmeras de segurança pública instaladas nas ruas e identificar se um carro (roubado) passou por ali. A partir deste resultado é possível utilizando serviços de localização saber quais são as possíveis próximas ruas e analisando as câmeras de cada uma traçar a rota do veículo descobrindo o paradeiro atual.
 
+> [!NOTE]
 > A ideia é que este projeto seja utilizado por autorizades de segurança e não para a população em geral por conter dados pessoais como carro, placas e até mesmo a imagem dos motoristas, além de evitar que o seu uso ser deturpado, como localizar uma pessoa sem o consentimento desta.
 
 Esta primeira versão conta com vídeos grátis de ruas de bancos de imagens (vídeos) simulando uma gravação real de uma rua.
