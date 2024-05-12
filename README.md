@@ -30,6 +30,7 @@ Esse protótipo utiliza Jupyter Notebook do Python, onde você pode executar a p
 [Robocop AI Colab project](https://colab.research.google.com/github/flaviochess/robocop_ai/blob/main/robocop.ipynb)
 
 A última função recebe dois atributos, sendo uma placa de carro e uma rua (de 1 à 13 como o mapa acima). Ao rodar ela você pode observar toda a busca ocorrendo pelas ruas até encontrar o carro.
+![processamento](robocop_processamento.png)
 ![resultado](resultado_robocop_ai.png)
 
 ## Limitações
