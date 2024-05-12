@@ -1,5 +1,10 @@
 # Robocop AI
-![robocop](robocop.png)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="robocop.png">
+ <source media="(prefers-color-scheme: light)" srcset="robocop.png">
+ <img alt="Foto do Robocop" src="robocop.png">
+</picture>
+
 > Robocop em referência ao filme onde o personagem é um policial humanoide e IA pois aqui ao invés de um humanoide o "policial" é uma IA.
 
 ## O projeto
